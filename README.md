@@ -1,2 +1,0 @@
-# ANLY560FXIONG
-EXAMPLE practice
